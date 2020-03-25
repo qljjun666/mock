@@ -1,0 +1,24 @@
+{
+  "name": "mock-",
+  "version": "1.0.0",
+  "description": "mock数据模拟",
+  "main": "mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qljjun666/mock-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qljjun666/mock-/issues"
+  },
+  "homepage": "https://github.com/qljjun666/mock-#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
